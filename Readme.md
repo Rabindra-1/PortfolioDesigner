@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rabindra-1.github.io/Portfolio/">🌐 Live Portfolio</a>
+  <a href="portfolio-designer-rose.vercel.app/">🌐 Live Portfolio</a>
   •
   <a href="https://github.com/Rabindra-1">💻 GitHub</a>
   •
